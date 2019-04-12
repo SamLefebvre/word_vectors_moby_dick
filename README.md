@@ -11,6 +11,6 @@ Open the link to open in Google Colaboratory
 
 ## Credits
 
-Credits for this code go to [Siraj Raval](https://github.com/llSourcell/word_vectors_game_of_thrones-LIVE), this is a adapted version for Colaboratory and a new book in the public domain.
+Credits for this code go to [Siraj Raval](https://github.com/llSourcell/word_vectors_game_of_thrones-LIVE), this is an adapted version for Colaboratory and a new book in the public domain.
 
 Original creator is [Yuriy Guts](https://github.com/YuriyGuts/thrones2vec).
